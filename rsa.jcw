@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>rsa</label>
+	</settings>
+	<users>
+		<user>
+			<path>rsa.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>rsa.jcp</path>
+		</project>
+	</projects>
+</workspace>
